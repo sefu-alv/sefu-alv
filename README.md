@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sefu-alv
 - 👀 I’m interested in coding and snowboaring
-- 🌱 I’m currently learning HTML,CSS, and 
+- 🌱 I’m currently learning HTML,CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sefufim@outlook.com
 
