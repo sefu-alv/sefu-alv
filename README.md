@@ -5,7 +5,7 @@ I'm a coding enthusiast and snowboarding aficionado who is passionate about web 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on improving my web development skills.
+- 🔭 I’m actively working on improving my web development skills.
 - 🌱 I’m currently learning JavaScript frameworks like React.js.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about anything related to coding, snowboarding, or tech in general.
