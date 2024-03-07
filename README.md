@@ -28,7 +28,7 @@ I'm a coding enthusiast and snowboarding aficionado who is passionate about web 
 
 ## 📈 GitHub Stats
 
-![Sefu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefu-alv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefu-alv&layout=compact&theme=radical)
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or just want to chat. Happy coding! 🚀
