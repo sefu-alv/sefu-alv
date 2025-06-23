@@ -9,7 +9,7 @@ I'm a coding enthusiast and snowboarding aficionado who is passionate about web 
 - 🌱 I’m currently learning JavaScript frameworks like React.js.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about anything related to coding, snowboarding, or tech in general.
-- 📫 How to reach me: [sefufim@outlook.com](mailto:sefufim@outlook.com)
+- 📫 How to reach me: [sefufimalvarez@gmail.com](mailto:sefufimalvarez@gmail.com)
 
 
 ## 🔧 Technologies & Tools
