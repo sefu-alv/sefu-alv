@@ -1,16 +1,7 @@
 # Hi there, I'm Sefufim! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=sefu-alv&color=brightgreen)
 
-I'm a coding enthusiast and snowboarding aficionado who is passionate about web development and constantly learning new things. Currently diving deep into HTML, CSS, and JavaScript to create exciting projects.
-
-## 🚀 About Me
-
-- 🔭 I’m actively working on improving my web development skills.
-- 🌱 I’m currently learning JavaScript frameworks like React.js.
-- 👯 I’m looking to collaborate on web development projects.
-- 💬 Ask me about anything related to coding, snowboarding, or tech in general.
-- 📫 How to reach me: [sefufimalvarez@gmail.com](mailto:sefufimalvarez@gmail.com)
-
+Just another vibe coder :) 
 
 ## 🔧 Technologies & Tools
 
@@ -24,6 +15,12 @@ I'm a coding enthusiast and snowboarding aficionado who is passionate about web 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4A90D9?style=flat&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 
 ## 📈 GitHub Stats
