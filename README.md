@@ -1,7 +1,7 @@
 # Hi there, I'm Sefufim! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=sefu-alv&color=brightgreen)
 
-Just another vibe coder :) 
+Currently learning, building, and breaking things (hopefully in a controlled environment)
 
 ## 🛠️ tech & tools
  
