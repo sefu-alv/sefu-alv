@@ -7,7 +7,7 @@ Currently learning, building, and breaking things (hopefully in a controlled env
  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,c,vim,bash,cpp,css,html,js,ts,linux,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=git,c,vim,bash,cpp,css,html,js,ts,linux,nodejs,py" />
   </a>
 </p>
 
